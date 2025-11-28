@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+*.ipr
+
+
+# Version control
+vcs.xml
